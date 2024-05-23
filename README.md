@@ -63,8 +63,8 @@
 **Web/Full Stack projects**
 
 [![Ecommerce](https://img.shields.io/badge/-🐦  Ecommerce-161616?style=flat)](https://github.com/esdrasfyy/urbanvogue)
-[![Dev.Cuba](https://img.shields.io/badge/-📈  Dev.Cuba-161616?style=flat)](https://github.com/Maelzin13/projeto_cuba_back)
-[![Notes](https://img.shields.io/badge/-📕  Notes-161616?style=flat)](https://github.com/esdrasfyy/just-notes)
+[![Dev.Cuba](https://img.shields.io/badge/-📈  Dev.Cuba-161616?style=flat)](https://github.com/Maelzin13/projeto_cuba_back)
+[![Notes](https://img.shields.io/badge/-📕 Notes-161616?style=flat)](https://github.com/esdrasfyy/just-notes)
 
 **Landing pages examples**
 
@@ -75,8 +75,9 @@
 **Other projects**
 
 [![AnimesRoll](https://img.shields.io/badge/-⛩️  Animesroll-161616?style=flat)](https://github.com/esdrasfyy/animesroll)
-[![Memory-Game](https://img.shields.io/badge/-🃏  Memory-Game-161616?style=flat)](https://github.com/esdrasfyy/memory-game)
+[![Memory-Game](https://img.shields.io/badge/-🃏 Memory%20Game-161616?style=flat)](https://github.com/esdrasfyy/memory-game)
 [![Shopping](https://img.shields.io/badge/-🛍️  Shopping-161616?style=flat)](https://github.com/esdrasfyy/shopping)
+
 
 <br/>
 
