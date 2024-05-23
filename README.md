@@ -51,13 +51,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=flat&logo=github&logoColor=e0e0e0)
 ![Jira](https://img.shields.io/badge/-Jira-161616?style=flat&logo=jira-software&logoColor=white&logoColor=e0e0e0)
 ![jQuery](https://img.shields.io/badge/-jQuery-161616?style=flat&logo=jQuery&logoColor=e0e0e0)
+![React Native](https://img.shields.io/badge/-React-161616?style=flat&logo=React&logoColor=e0e0e0)
 ![Linux](https://img.shields.io/badge/-Linux-161616?style=flat&logo=linux&logoColor=e0e0e0)
-![Node.js](https://img.shields.io/badge/-Node.js-161616?style=flat&logo=node.js&logoColor=e0e0e0)
+![Node](https://img.shields.io/badge/-Node.js-161616?style=flat&logo=node.js&logoColor=e0e0e0)
 ![React](https://img.shields.io/badge/-React-161616?style=flat&logo=React&logoColor=e0e0e0)
-![Java Spring](https://img.shields.io/badge/-Spring-161616?style=flat&logo=spring&logoColor=e0e0e0)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-161616?style=flat&logo=cisco&logoColor=e0e0e0)
-![TCP/IP](https://img.shields.io/badge/-Docker-161616?style=flat&logo=docker&logoColor=e0e0e0)
-![XCode](https://img.shields.io/badge/-XCode-161616?style=flat&logo=XCode&logoColor=e0e0e0)<!-- wi*quL3fcV -->
+![Next](https://img.shields.io/badge/-Next-161616?style=flat&logo=next&logoColor=e0e0e0)
+![Docker](https://img.shields.io/badge/-Docker-161616?style=flat&logo=docker&logoColor=e0e0e0)
 
 **Web/Full Stack projects**
 
