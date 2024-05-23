@@ -55,7 +55,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-161616?style=flat&logo=linux&logoColor=e0e0e0)
 ![Node](https://img.shields.io/badge/-Node.js-161616?style=flat&logo=node.js&logoColor=e0e0e0)
 ![React](https://img.shields.io/badge/-React-161616?style=flat&logo=React&logoColor=e0e0e0)
-![Next](https://img.shields.io/badge/-Next-161616?style=flat&logo=next&logoColor=e0e0e0)
+![Next](https://img.shields.io/badge/-Next-161616?style=flat&logo=Next&logoColor=e0e0e0)
 ![Docker](https://img.shields.io/badge/-Docker-161616?style=flat&logo=docker&logoColor=e0e0e0)
 
 **Web/Full Stack projects**
