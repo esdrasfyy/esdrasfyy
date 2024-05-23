@@ -19,10 +19,11 @@
 
 <div align="centre">
 
-[![Linkedin Badge](https://img.shields.io/badge/-esdrasfyy-161616?style=social&logo=Linkedin&logoColor=161616&link=https://www.linkedin.com/in/esdrasfyy/)](https://www.linkedin.com/in/esdrasfyy/)
-<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-esdrasfyy-161616?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esdrasfyy/)](https://www.linkedin.com/in/esdrasfyy/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-161616?style=social&logo=Instagram&logoColor=white&link=https://www.instagram.com/seuusuario/)](https://www.instagram.com/seuusuario/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=social&logo=WhatsApp&logoColor=white&link=https://wa.me/5512345678910)](https://wa.me/5512345678910)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-161616?style=social&logo=Google%20Chrome&logoColor=white&link=https://www.seuportfolio.com)](https://www.seuportfolio.com)
 
-[![Instagram Badge](https://img.shields.io/badge/-esdras.fyy-161616?style=social&logo=Instagram&logoColor=161616&link=https://www.instagram.com/esdras.fyy/)](https://www.instagram.com/esdras.fyy/)
 
  </div>
 
