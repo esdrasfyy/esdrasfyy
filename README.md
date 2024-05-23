@@ -19,10 +19,16 @@
 
 <div align="centre">
 
-[![Linkedin Badge](https://img.shields.io/badge/-esdrasfyy-161616?style=social&logo=Linkedin&logoColor=e0e0e0&link=https://www.linkedin.com/in/esdrasfyy/)](https://www.linkedin.com/in/esdrasfyy/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-161616?style=social&logo=Instagram&logoColor=e0e0e0&link=https://www.instagram.com/seuusuario/)](https://www.instagram.com/seuusuario/)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=social&logo=WhatsApp&logoColor=e0e0e0&link=https://wa.me/5512345678910)](https://wa.me/5512345678910)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-161616?style=social&logo=Google%20Chrome&logoColor=e0e0e0&link=https://www.seuportfolio.com)](https://www.seuportfolio.com)
+[![Linkedin Badge](https://img.shields.io/badge/-esdrasfyy-161616?style=social&logo=Linkedin&logoColor=161616&link=https://www.linkedin.com/in/esdrasfyy/)](https://www.linkedin.com/in/esdrasfyy/)
+<br/>
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-161616?style=social&logo=Instagram&logoColor=161616&link=https://www.instagram.com/esdrasfyy/)](https://www.instagram.com/esdrasfyy/)
+<br/>
+
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=social&logo=WhatsApp&logoColor=161616&link=https://wa.me/5511983648856)](https://wa.me/5511983648856)
+<br/>
+
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-161616?style=social&logo=Google%20Chrome&logoColor=161616&link=https://esdras.dev)](https://esdras.dev)
 
 
  </div>
