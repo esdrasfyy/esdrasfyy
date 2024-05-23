@@ -59,29 +59,24 @@
 ![Docker](https://img.shields.io/badge/-Docker-161616?style=flat&logo=docker&logoColor=e0e0e0)
 ![AWS](https://img.shields.io/badge/-AWS-161616?style=flat&logo=Amazon%20AWS&logoColor=e0e0e0)
 
+
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬  My Website-161616?style=flat)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠 COVID‑19 Dashboard-161616?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📰  Summarizer-161616?style=flat)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🃏 Voice Poker-161616?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️ PokémonGo Map-161616?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+[![Ecommerce](https://img.shields.io/badge/-🐦  Ecommerce-161616?style=flat)](https://github.com/esdrasfyy/urbanvogue)
+[![Dev.Cuba](https://img.shields.io/badge/-📈  Dev.Cuba-161616?style=flat)](https://github.com/Maelzin13/projeto_cuba_back)
+[![Notes](https://img.shields.io/badge/- 📕  Notes-161616?style=flat)](https://github.com/esdrasfyy/just-notes)
 
-**Cybersecurity projects**
+**Landing pages examples**
 
-[![Heartbleed](https://img.shields.io/badge/-🩸 Heartbleed-161616?style=flat)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊  SYN Flood-161616?style=flat)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️ Packet Sniffing & Spoofing-161616?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉  SQL Injection-161616?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️ Spectre & Meltdown-161616?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
+[![Advocacy](https://img.shields.io/badge/-👔 Advocacy-161616?style=flat)](https://github.com/esdrasfyy/ldp-advocacia)
+[![Barber](https://img.shields.io/badge/-💈  Barber-161616?style=flat)](https://github.com/esdrasfyy/ldp-barber)
+[![Hotel](https://img.shields.io/badge/-🏢 Hotel-161616?style=flat)](https://github.com/esdrasfyy/ldp-hotel)
 
 **Other projects**
 
-[![Clean My Mac](https://img.shields.io/badge/-🧼  Clean My Mac-161616?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧  SMTP-161616?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡  Network Tools-161616?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️ Cache Simulator-161616?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈  RGB Text Colorizer-161616?style=flat)](https://github.com/adamalston/rgbTextColorizer)
+[![AnimesRoll](https://img.shields.io/badge/-⛩️  Animesroll-161616?style=flat)](https://github.com/esdrasfyy/animesroll)
+[![Memory Game](https://img.shields.io/badge/-🃏  Memory Game-161616?style=flat)](https://github.com/esdrasfyy/memory-game)
+[![Shopping](https://img.shields.io/badge/-🛍️  Shopping-161616?style=flat)](https://github.com/esdrasfyy/shopping)
 
 <br/>
 
