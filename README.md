@@ -63,8 +63,8 @@
 **Web/Full Stack projects**
 
 [![Ecommerce](https://img.shields.io/badge/-🐦  Ecommerce-161616?style=flat)](https://github.com/esdrasfyy/urbanvogue)
-[![Dev.Cuba](https://img.shields.io/badge/-📈  Dev.Cuba-161616?style=flat)](https://github.com/Maelzin13/projeto_cuba_back)
-[![Notes](https://img.shields.io/badge/-📕 Notes-161616?style=flat)](https://github.com/esdrasfyy/just-notes)
+[![Cuba](https://img.shields.io/badge/-📈  Cuba-161616?style=flat)](https://github.com/Maelzin13/projeto_cuba_back)
+[![Notes](https://img.shields.io/badge/-📕  Notes-161616?style=flat)](https://github.com/esdrasfyy/just-notes)
 
 **Landing pages examples**
 
